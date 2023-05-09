@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-repositorio prueba modulo 2 prepcourse henry
+Este proyecto es una prueba de como crear repositorio y clonarlo en mi pc
